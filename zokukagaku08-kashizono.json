@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kashizono",
  "yomi": "かしぞのかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "天保10年（1839）1月識語",
+  "author": "中島広足（1792〜1864）",
+  "desc": "肥後出身で長崎に住んだ国学者中島広足の家集の抄。序は、広足の歌を霜の後も色を変えない常葉にたとえる。前編3冊が板に彫られたと、船曳大滋の識語にいう。"
+ },
  "editions": [
   {
    "pid": "993386",
